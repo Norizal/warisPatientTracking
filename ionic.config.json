@@ -1,0 +1,8 @@
+{
+  "name": "warisPatientTracking",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "0ff9a1e5"
+}
